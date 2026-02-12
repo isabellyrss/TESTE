@@ -1,0 +1,11 @@
+console.log("Hello World!");
+console.log(0123456789);
+console.log("Isabelly");
+x=8+9;
+console.log(x);
+y=81;
+z=9;
+t=y+z;
+console.log(t);
+console.log("O resultado é:",t);
+console.log("O outro resultado é:",x);
